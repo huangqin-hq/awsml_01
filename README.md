@@ -1,3 +1,6 @@
+## Source:
+### https://github.com/udacity/cd0385-project-starter
+
 # Predict Bike Sharing Demand with AutoGluon
 
 ## Introduction to AWS Machine Learning Final Project
